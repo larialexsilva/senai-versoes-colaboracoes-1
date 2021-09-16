@@ -8,5 +8,5 @@ data 03/09/2021: foi adicionado novo computador.
 
 data 15/09/2021: foi adicionado os arquivos referente a atividade 1:
  -programa em javaScript (pecas.js);
- - fluxograma ().
+ - fluxograma (sistema-contagem-classificacao-pecas.png).
 
